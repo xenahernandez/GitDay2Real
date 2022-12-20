@@ -7,4 +7,6 @@ public class Sales
 
     //70%off
     //89%off
+
+    //99%off holiday sale
 }
