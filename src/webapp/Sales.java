@@ -6,4 +6,5 @@ public class Sales
     //20%off
 
     //70%off
+    //89%off
 }
